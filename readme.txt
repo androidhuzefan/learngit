@@ -5,3 +5,4 @@ git tracks changes.
 Create a new branch is quick.
 Create a new brancg is quick & simple.
 git managerment.
+git bug
